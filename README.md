@@ -15,3 +15,5 @@ Google Colabで `.ipynb` を開き、「すべてのセルを実行」するだ�
 
 ## ライセンス
 MIT License
+
+▶️ [Google Colabで開く](https://colab.research.google.com/github/nori-sayamaru/RAG-Layerization/blob/main/RAG_Layerization_cleaned.ipynb)
